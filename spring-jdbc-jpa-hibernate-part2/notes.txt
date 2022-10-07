@@ -1,0 +1,5 @@
+SELECT * FROM PERSON 
+
+insert into person(id,name,location,birthdate)
+ alues(101,'Md Asif','Pune',sysdate());
+
